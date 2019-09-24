@@ -1,6 +1,5 @@
 # Snake
-
-## simple snake written in python for windows
+simple snake written in python for windows
 
 ### Run:
 `python game.py`
