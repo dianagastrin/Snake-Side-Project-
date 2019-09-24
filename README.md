@@ -1,4 +1,4 @@
-# Sanke
+# Snake
 
 ## simple snake written in python for windows
 
