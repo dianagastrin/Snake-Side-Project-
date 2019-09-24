@@ -2,7 +2,7 @@
 simple snake written in python for windows
 
 ### Run:
-`python game.py`
+`python snake.py`
 
 ### Requirements:
 1) Windows
