@@ -169,9 +169,7 @@ class Game():
             if result == False:
                 screen.addstr("GAME OVER, press [e] for exit")
                 screen.refresh()
-                # curses.endwin()
                 break
-                # os._exit(0)
 
             screen.refresh()
 
