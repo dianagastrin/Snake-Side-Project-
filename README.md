@@ -11,4 +11,4 @@ simple snake written in python for windows
 4) Libs: curses, msvcrt
 
 ### Demo:
-![](https://im2.ezgif.com/tmp/ezgif-2-2cd3aff44b77.gif)
+![](https://im2.ezgif.com/tmp/ezgif-2-f0a446d692c9.gif)
